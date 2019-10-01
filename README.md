@@ -1,2 +1,4 @@
-# Scrimba knowledge base
-Documentation and helpful tips about Scrimba
+# Scrimba keyboard shortcuts
+...
+..
+...
