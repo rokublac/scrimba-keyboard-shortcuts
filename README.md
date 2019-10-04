@@ -1,8 +1,8 @@
-# Scrimba keyboard shortcuts (Windows and macOS)
+# [Scrimba](https://scrimba.com) keyboard shortcuts (Windows and macOS)
 
 Keyboard shortcuts are based of Visual Studio Code.
 
-Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
+[Scrimba](https://scrimba.com) keyboard shortcuts demonstration: *Link to scrimba cast*
 
 ## *macOS shortcuts coming soon*
 
