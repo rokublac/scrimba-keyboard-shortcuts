@@ -65,7 +65,7 @@ Keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Alt + C/W/R` | Toggle case-sensitive / whole word / regular expression |
 | `Ctrl + G` | Navigate to line number |
 | `Ctrl + Shift + O` | Navigate to symbol |
-| `Ctrl + 🡨/🡪` | Navigate to end of symbol |
+| `Ctrl + 🡨/🡪` | Navigate to start/end of symbol |
 | `Ctrl + 🡩/🡫` | Up/down scroll editor |
 
 #### Comments
