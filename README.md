@@ -1,12 +1,13 @@
 # Scrimba keyboard shortcuts (Windows and macOS)
 
+Keyboard shortcuts are based of Visual Studio Code.
+
 Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 
 ## *macOS shortcuts coming soon*
 
 ## Windows
 
-✔️
 #### General
 | Command | Action |
 | --- | --- |
@@ -15,7 +16,6 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Ctrl + Shift + U` | Show/hide mini browser |
 | `Ctrl + Shift + Y` | Show/hide console|
 
-✔️
 #### Selection and Cursor
 | Command | Action |
 | --- | --- |
@@ -26,7 +26,6 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Shift + 🡪` | Select one character at a time |
 | `Shift + Ctrl + 🡪` | Select whole symbol |
 
-✔️
 #### Cursor
 | Command | Action |
 | --- | --- |
@@ -36,7 +35,6 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Ctrl + Shift + Enter` | Create new line above cursor |
 | `Ctrl + Enter` | Create new line below cursor |
 
-✔️
 #### Basic editing
 | Command | Action |
 | --- | --- |
@@ -49,7 +47,6 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Ctrl + ] / [` | Indent/outdent line |
 | `Ctrl + Z` | Undo |
 
-✔️
 #### Search and Navigation
 | Command | Action |
 | --- | --- |
@@ -64,7 +61,6 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Ctrl + 🡨/🡪` | Navigate to end of symbol |
 | `Ctrl + 🡩/🡫` | Up/down scroll editor |
 
-✔️
 #### Comments
 | Command | Action |
 | --- | --- |
@@ -72,7 +68,6 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Ctrl + / or ctrl + K ctrl + U` | Uncomment (Empty selection or highlight) |
 | `Shift + Alt + A` | Block comment (Empty selection or highlight)|
 
-✔️
 #### Rich text editor
 | Command | Action |
 | --- | --- |
@@ -84,12 +79,8 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | Hold `Ctrl` then hover over symbol | Mini peek definition |
 | `Shift + F12` | Show references |
 
-✔️
 #### Browser
 | Command | Action |
 | --- | --- |
 | `F11` | Toggle full screen |
 | `F12` | Open developer console |
-
-
-
