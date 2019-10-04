@@ -9,6 +9,14 @@
 Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed here: *Link to scrimba cast*
 
 - [Windows](#windows)
+	- General
+	- Selection and Cursor
+	- Cursor
+	- Basic editing
+	- Search and Navigation
+	- Comments
+	- Rich text editor
+	- Browser
 - macOS *coming soon*
 
 ## <a id="windows">Windows</a>
