@@ -8,8 +8,8 @@
 
 Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed here: *Link to scrimba cast*
 
-- [Windows](#windows)
-	- General
+- [Windows](https://github.com/rokublac/scrimba-keyboard-shortcuts/blob/master/README.md#windows)
+	- [General](https://github.com/rokublac/scrimba-keyboard-shortcuts/blob/master/README.md#general)
 	- Selection and Cursor
 	- Cursor
 	- Basic editing
@@ -19,7 +19,7 @@ Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed
 	- Browser
 - macOS *coming soon*
 
-## <a id="windows">Windows</a>
+## Windows
 
 #### General
 | Command | Action |
