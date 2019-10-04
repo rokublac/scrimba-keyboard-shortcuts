@@ -6,12 +6,10 @@
 
 # [Scrimba](https://scrimba.com) keyboard shortcuts (Windows and macOS)
 
-Keyboard shortcuts are based of Visual Studio Code.
-
-Keyboard shortcuts demonstration: *Link to scrimba cast*
+Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed here: *Link to scrimba cast*
 
 - [Windows](#windows)
-- [macOS](#mac)
+- macOS *coming soon*
 
 ## <a id="windows">Windows</a>
 
