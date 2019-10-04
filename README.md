@@ -10,9 +10,10 @@ Keyboard shortcuts are based of Visual Studio Code.
 
 Keyboard shortcuts demonstration: *Link to scrimba cast*
 
-## *macOS shortcuts coming soon*
+- [Windows](#windows)
+- [macOS](#mac)
 
-## Windows
+## <a id="windows">Windows</a>
 
 #### General
 | Command | Action |
