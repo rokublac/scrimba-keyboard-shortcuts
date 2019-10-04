@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">
 	<a href="https://scrimba.com/"><img src="https://i.postimg.cc/02tKBTwD/blue.png" width="500" alt="Scrimba logo"></a>
 	<br>
