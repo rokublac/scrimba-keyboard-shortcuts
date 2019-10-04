@@ -6,45 +6,50 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 
 ## Windows
 
+✔️
 #### General
-
 | Command | Action |
 | --- | --- |
 | `Ctrl + S` | Execute code |
 | `Ctrl + B` | Toggle mini browser focus |
-| `Ctrl + U` | Show/hide mini browser |
-| `Ctrl + Y` | Show/hide console|
+| `Ctrl + Shift + U` | Show/hide mini browser |
+| `Ctrl + Shift + Y` | Show/hide console|
 
-#### Selection
+✔️
+#### Selection and Cursor
 | Command | Action |
 | --- | --- |
-| `Shift + Ctrl + L` | Cut line (empty selection) |
-| `Alt + Click` | Copy line (empty selection) |
-| `Ctrl + Alt + /🡫` | Paste copied content |
-| `Shift + Alt + I` | Move line up/down |
-| `Ctrl + I` | Copy line up/down |
-| `Ctrl + Shift + L` | Create new line below cursor |
-| `Shift + Alt + 🡪` | Create cursor above/below current|
-| `Shift + Alt highlight code` | Create new line above cursor |
-| `Shift + 🡪` | Jump to matching bracket |
-| `Shift + Ctrl + 🡪` | Select whole word |
+| `Shift + Ctrl + L` | Select all instances (highlight of cursor position) |
+| `Ctrl + I` | Select line |
+| `Shift + Alt + 🡪` | Expand selection to select block (press twice) |
+| `Shift + Alt highlight code` | Column (box) selection |
+| `Shift + 🡪` | Select one character at a time |
+| `Shift + Ctrl + 🡪` | Select whole symbol |
 
+✔️
+#### Cursor
+| Command | Action |
+| --- | --- |
+| `Alt + click` | Add cursor at click position |
+| `Shift + Alt + I` | Insert cursor at the end of each line selected / makes empty spaces visible if nothing |
+| `Ctrl + Alt + 🡩/🡫` | Insert cursor above/below |
+| `Ctrl + Shift + Enter` | Create new line above cursor |
+| `Ctrl + Enter` | Create new line below cursor |
 
-#### Basic Editing
-
+✔️
+#### Basic editing
 | Command | Action |
 | --- | --- |
 | `Ctrl + X` | Cut line (empty selection) |
 | `Ctrl + C` | Copy line (empty selection) |
 | `Ctrl + V` | Paste copied content |
-| `Ctrl + 🡩/🡫` | Move line up/down |
+| `Alt + 🡩/🡫` | Move line up/down |
 | `Shift + Alt + 🡩/🡫` | Copy line up/down |
-| `Ctrl + Enter` | Create new line below cursor |
-| `Ctrl + Shift + Alt + 🡩/🡫` | Create cursor above/below current|
-| `Ctrl + Shift + Enter` | Create new line above cursor |
-| `Ctrl + Shift + \` | Jump to matching bracket |
+| `Ctrl + Shift + \` | Navigate to matching bracket |
 | `Ctrl + ] / [` | Indent/outdent line |
+| `Ctrl + Z` | Undo |
 
+✔️
 #### Search and Navigation
 | Command | Action |
 | --- | --- |
@@ -56,17 +61,18 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | `Alt + C/W/R` | Toggle case-sensitive / whole word / regular expression |
 | `Ctrl + G` | Navigate to line number |
 | `Ctrl + Shift + O` | Navigate to symbol |
+| `Ctrl + 🡨/🡪` | Navigate to end of symbol |
+| `Ctrl + 🡩/🡫` | Up/down scroll editor |
 
-
-
+✔️
 #### Comments
 | Command | Action |
 | --- | --- |
-| `Ctrl + /` | Comment line (Empty selection or highlight) |
-| `Ctrl + ] / [` | Uncomment (Empty selection or highlight) |
-| `Ctrl + 🡩/🡫` | Block comment (Empty selection or highlight)|
+| `Ctrl + / or ctrl + K ctrl + C` | Comment/uncomment line (Empty selection or highlight) |
+| `Ctrl + / or ctrl + K ctrl + U` | Uncomment (Empty selection or highlight) |
+| `Shift + Alt + A` | Block comment (Empty selection or highlight)|
 
-
+✔️
 #### Rich text editor
 | Command | Action |
 | --- | --- |
@@ -78,7 +84,7 @@ Scrimba keyboard shortcuts demonstration: *Link to scrimba cast*
 | Hold `Ctrl` then hover over symbol | Mini peek definition |
 | `Shift + F12` | Show references |
 
-
+✔️
 #### Browser
 | Command | Action |
 | --- | --- |
