@@ -29,7 +29,7 @@ Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed
 #### <a name="selection">Selection</a>
 | Command | Action |
 | --- | --- |
-| `Shift + Cmd + L` | Select all instances (highlight of cursor position) |
+| `Shift + Cmd + L` | Select all instances (highlight or cursor position) |
 | `Shift + Alt + 🡪` | Expand selection to select word |
 | `Shift + Alt highlight code` | Column (box) selection |
 | `Shift + 🡪` | Select one character at a time |
