@@ -33,10 +33,10 @@ Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed
 | Command | Action |
 | --- | --- |
 | `Shift + Ctrl + L` | Select all instances (highlight of cursor position) |
-| `Ctrl + I` | Select line |
-| `Shift + Alt + 🡪` | Expand selection to select block (press twice) |
+| `Shift + Alt + 🡪` | Expand selection to select word |
 | `Shift + Alt highlight code` | Column (box) selection |
 | `Shift + 🡪` | Select one character at a time |
+| `Shift + 🡫` | Select line at a time |
 | `Shift + Ctrl + 🡪` | Select whole symbol |
 
 #### Cursor
@@ -66,13 +66,12 @@ Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed
 | `Ctrl + F` | Find |
 | `Ctrl + H` | Replace |
 | `F3 / Shift + F3` | Find next/previous |
-| `Ctrl + D` | Add selection to next Find match |
 | `Alt + Enter` | Select occurrence of Find Match|
-| `Alt + C/W/R` | Toggle case-sensitive / whole word / regular expression |
-| `Ctrl + G` | Navigate to line number |
-| `Ctrl + Shift + O` | Navigate to symbol |
+| `Alt + C/W/R` | Toggle case-sensitive / whole word / regular expression (macOS option + Cmd + C/W/R)|
+| `Ctrl + G` | Navigate to line number (same mac) |
+| `Ctrl + Shift + O` | Navigate to symbol (cmd + shift + o) |
 | `Ctrl + 🡨/🡪` | Navigate to start/end of symbol |
-| `Ctrl + 🡩/🡫` | Up/down scroll editor |
+| `Ctrl + 🡩/🡫` | Up/down scroll editor (no mac)|
 
 #### Comments
 | Command | Action |
@@ -85,15 +84,9 @@ Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed
 | Command | Action |
 | --- | --- |
 | `Ctrl + space` | Trigger suggestions |
-| `Ctrl + Alt + F` | Format document |
+| `Ctrl + Alt + F` | Format document (no mac) |
 | `Ctrl + K Ctrl + F` | Format selection |
-| `Alt + F12` | Peek definition|
+| `Alt + F12` | Peek definition |
 | `Ctrl + K F12` | Navigate to definition |
 | Hold `Ctrl` then hover over symbol | Mini peek definition |
 | `Shift + F12` | Show references |
-
-#### Browser
-| Command | Action |
-| --- | --- |
-| `F11` | Toggle full screen |
-| `F12` | Open developer console |
