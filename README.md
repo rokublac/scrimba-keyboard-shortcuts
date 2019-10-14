@@ -6,7 +6,7 @@
 
 # [Scrimba](https://scrimba.com) keyboard shortcuts
 
-Shortcuts are based of Visual Studio Code. A Scrimba demonstartion can be viewed here: *Link to scrimba cast*
+A Scrimba demonstartion can be viewed here: *Link to scrimba cast*
 
 > [Windows](https://github.com/rokublac/scrimba-keyboard-shortcuts/blob/master/windows.md)
 
